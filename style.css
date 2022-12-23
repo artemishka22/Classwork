@@ -1,0 +1,9 @@
+.wrapper{
+    height: 100vh;
+    background-color: #19203e;
+}
+.logo{
+    background-image: url(/img/logo.svg);
+    background-size: contain;
+    width: 200px;
+}
